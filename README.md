@@ -1,5 +1,7 @@
 # AI Frontend Design Kit
 
+**English · [中文](./README.zh.md)**
+
 > **Constraints before generation.** A 10-skill plugin for Claude Code and Codex that upgrades AI-assisted frontend design from "generate four options, pick one" to a rigorous 7-stage flow with taste-level design contracts.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
