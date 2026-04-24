@@ -1,0 +1,8 @@
+{
+  "snapshot_count": 2,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/反 slop 硬禁令：AI 前端的十条视觉红线.md": "references/packaged-knowledge/反 slop 硬禁令：AI 前端的十条视觉红线.md"
+  },
+  "missing": []
+}

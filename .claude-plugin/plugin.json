@@ -1,0 +1,20 @@
+{
+  "name": "ai-frontend-design-kit",
+  "version": "0.1.0",
+  "description": "AI-first frontend design toolkit for Claude Code and Codex: 7-stage flow (requirement -> six-dimension research -> dualround interview -> visual anchors -> asset gen -> code impl -> design review) + scenario C increment router + ten-line anti-slop gate + kun 15-segment DESIGN.md writer + i18n essentials. Each skill ships with packaged cognitive knowledge snapshots, no external vault dependency.",
+  "author": {
+    "name": "Kunkun",
+    "url": "https://github.com/kkunkunya"
+  },
+  "homepage": "https://github.com/kkunkunya/ai-frontend-design-kit",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "codex",
+    "frontend",
+    "ai-design",
+    "design-system",
+    "plugin"
+  ],
+  "skills": "./skills/"
+}

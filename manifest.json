@@ -1,0 +1,132 @@
+{
+  "bundle_name": "frontend-suite-opensource-20260424",
+  "created_at": "2026-04-24T12:06:35",
+  "source_root": "/Users/kunkun/.agents/plugins/frontend-suite/skills",
+  "note_root": "/Users/kunkun/note",
+  "skills": [
+    {
+      "skill": "frontend-anti-slop-gate",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-anti-slop-gate",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-anti-slop-gate",
+      "snapshot_count": 2,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/反 slop 硬禁令：AI 前端的十条视觉红线.md": "references/packaged-knowledge/反 slop 硬禁令：AI 前端的十条视觉红线.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-design-research",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-design-research",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-design-research",
+      "snapshot_count": 5,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/六维：形色字构质动是网站试吃的机械骨架.md": "references/packaged-knowledge/六维：形色字构质动是网站试吃的机械骨架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/从参考案例复刻高级感：量化工作流.md": "references/packaged-knowledge/从参考案例复刻高级感：量化工作流.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-design-review",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-design-review",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-design-review",
+      "snapshot_count": 4,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/从参考案例复刻高级感：量化工作流.md": "references/packaged-knowledge/从参考案例复刻高级感：量化工作流.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/参数外显与判断外显：评审的两条姊妹机制.md": "references/packaged-knowledge/参数外显与判断外显：评审的两条姊妹机制.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/审美是隐性认知，追问是唯一的解压工具.md": "references/packaged-knowledge/审美是隐性认知，追问是唯一的解压工具.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-design-writer",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-design-writer",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-design-writer",
+      "snapshot_count": 7,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/六维：形色字构质动是网站试吃的机械骨架.md": "references/packaged-knowledge/六维：形色字构质动是网站试吃的机械骨架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md": "references/packaged-knowledge/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/深度采访双轮：产品设计师视角的横切机制.md": "references/packaged-knowledge/深度采访双轮：产品设计师视角的横切机制.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/视觉锚定三件套：代价结构与资产生成双路径.md": "references/packaged-knowledge/视觉锚定三件套：代价结构与资产生成双路径.md"
+      },
+      "missing": [
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/03-交付契约/DESIGN.md"
+      ]
+    },
+    {
+      "skill": "frontend-i18n-essentials",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-i18n-essentials",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-i18n-essentials",
+      "snapshot_count": 1,
+      "snapshots": {
+        "/Users/kunkun/note/11-前端工程/前端国际化（i18n）认知对齐.md": "references/packaged-knowledge/前端国际化（i18n）认知对齐.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-interview-dualround",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-interview-dualround",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-interview-dualround",
+      "snapshot_count": 4,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/审美是隐性认知，追问是唯一的解压工具.md": "references/packaged-knowledge/审美是隐性认知，追问是唯一的解压工具.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/深度采访双轮：产品设计师视角的横切机制.md": "references/packaged-knowledge/深度采访双轮：产品设计师视角的横切机制.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-iteration-planner",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-iteration-planner",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-iteration-planner",
+      "snapshot_count": 1,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-motion-prompt-writer",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-motion-prompt-writer",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-motion-prompt-writer",
+      "snapshot_count": 3,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md": "references/packaged-knowledge/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/视觉锚定三件套：代价结构与资产生成双路径.md": "references/packaged-knowledge/视觉锚定三件套：代价结构与资产生成双路径.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "frontend-visual-reference",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/frontend-visual-reference",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/frontend-visual-reference",
+      "snapshot_count": 6,
+      "snapshots": {
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/六维：形色字构质动是网站试吃的机械骨架.md": "references/packaged-knowledge/六维：形色字构质动是网站试吃的机械骨架.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md": "references/packaged-knowledge/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/反 slop 硬禁令：AI 前端的十条视觉红线.md": "references/packaged-knowledge/反 slop 硬禁令：AI 前端的十条视觉红线.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/审美是隐性认知，追问是唯一的解压工具.md": "references/packaged-knowledge/审美是隐性认知，追问是唯一的解压工具.md",
+        "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/视觉锚定三件套：代价结构与资产生成双路径.md": "references/packaged-knowledge/视觉锚定三件套：代价结构与资产生成双路径.md"
+      },
+      "missing": []
+    },
+    {
+      "skill": "system-design",
+      "source": "/Users/kunkun/.agents/plugins/frontend-suite/skills/system-design",
+      "target": "/Users/kunkun/.agents/skill-bundles/frontend-suite-opensource-20260424/skills/system-design",
+      "snapshot_count": 0,
+      "snapshots": {},
+      "missing": []
+    }
+  ]
+}

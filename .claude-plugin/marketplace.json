@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ai-frontend-design-kit",
+  "description": "AI-first frontend design toolkit — 10 skills for Claude Code and Codex covering the full 7-stage design flow.",
+  "owner": {
+    "name": "Kunkun",
+    "url": "https://github.com/kkunkunya"
+  },
+  "plugins": [
+    {
+      "name": "ai-frontend-design-kit",
+      "description": "7-stage frontend design flow: six-dimension research, dualround interview, visual anchor triptych, motion prompt writer, kun 15-segment DESIGN.md, anti-slop gate, system architecture, i18n essentials.",
+      "source": "."
+    }
+  ]
+}

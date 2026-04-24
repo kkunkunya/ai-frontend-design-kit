@@ -1,0 +1,15 @@
+{
+  "snapshot_count": 7,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/六维：形色字构质动是网站试吃的机械骨架.md": "references/packaged-knowledge/六维：形色字构质动是网站试吃的机械骨架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md": "references/packaged-knowledge/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/深度采访双轮：产品设计师视角的横切机制.md": "references/packaged-knowledge/深度采访双轮：产品设计师视角的横切机制.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/视觉锚定三件套：代价结构与资产生成双路径.md": "references/packaged-knowledge/视觉锚定三件套：代价结构与资产生成双路径.md"
+  },
+  "missing": [
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/03-交付契约/DESIGN.md"
+  ]
+}

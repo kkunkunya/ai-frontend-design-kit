@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端设计文件写作"
+  short_description: "从调研产出按三轮写作顺序写 DESIGN-LANGUAGE.md / DESIGN.md / MOTION-SPEC.md"
+  default_prompt: "帮我把调研结果写成三份交付文件"

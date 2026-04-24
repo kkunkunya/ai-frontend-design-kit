@@ -1,0 +1,10 @@
+{
+  "snapshot_count": 4,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/审美是隐性认知，追问是唯一的解压工具.md": "references/packaged-knowledge/审美是隐性认知，追问是唯一的解压工具.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/深度采访双轮：产品设计师视角的横切机制.md": "references/packaged-knowledge/深度采访双轮：产品设计师视角的横切机制.md"
+  },
+  "missing": []
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端调研剧本"
+  short_description: "前端起步或重做时的主语言/参考/动效/资源调研剧本"
+  default_prompt: "帮我做一下前端调研"

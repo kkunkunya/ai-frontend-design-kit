@@ -1,0 +1,10 @@
+{
+  "snapshot_count": 4,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/从参考案例复刻高级感：量化工作流.md": "references/packaged-knowledge/从参考案例复刻高级感：量化工作流.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/参数外显与判断外显：评审的两条姊妹机制.md": "references/packaged-knowledge/参数外显与判断外显：评审的两条姊妹机制.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/审美是隐性认知，追问是唯一的解压工具.md": "references/packaged-knowledge/审美是隐性认知，追问是唯一的解压工具.md"
+  },
+  "missing": []
+}

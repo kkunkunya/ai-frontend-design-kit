@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端设计评审"
+  short_description: "三段式追问 + 选择题化，把'感觉不对'翻译成可执行改动"
+  default_prompt: "帮我评审一下当前前端实现"

@@ -1,0 +1,9 @@
+{
+  "snapshot_count": 3,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md": "references/packaged-knowledge/动效文档两层：MOTION-SPEC vs 实现 prompt 集.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/视觉锚定三件套：代价结构与资产生成双路径.md": "references/packaged-knowledge/视觉锚定三件套：代价结构与资产生成双路径.md"
+  },
+  "missing": []
+}

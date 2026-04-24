@@ -1,0 +1,11 @@
+{
+  "snapshot_count": 5,
+  "snapshots": {
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/AI前端设计认知框架.md": "references/packaged-knowledge/AI前端设计认知框架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/主语言是设计的第一原则.md": "references/packaged-knowledge/主语言是设计的第一原则.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/01-认知框架/六维：形色字构质动是网站试吃的机械骨架.md": "references/packaged-knowledge/六维：形色字构质动是网站试吃的机械骨架.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/AI 前端动效盲区与采访补偿.md": "references/packaged-knowledge/AI 前端动效盲区与采访补偿.md",
+    "/Users/kunkun/note/01-AI工程/AI设计与前端/02-执行方法/从参考案例复刻高级感：量化工作流.md": "references/packaged-knowledge/从参考案例复刻高级感：量化工作流.md"
+  },
+  "missing": []
+}
