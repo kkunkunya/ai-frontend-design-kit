@@ -1,5 +1,10 @@
 # AI Frontend Design Kit
 
+## Portfolio positioning
+
+This is a portfolio-facing Agent/Plugin project for frontend design direction, design constraints, and Claude Code/Codex handoff workflows. It demonstrates how I package reusable AI engineering capability as installable project tooling.
+
+
 **English · [中文](./README.zh.md)**
 
 > **Constraints before generation.** A 10-skill plugin for Claude Code and Codex that upgrades AI-assisted frontend design from "generate four options, pick one" to a rigorous 7-stage flow with taste-level design contracts.
